@@ -44,10 +44,4 @@ El código JavaScript utiliza el DOM para interactuar con elementos HTML. La int
 3. Repita los pasos para agregar más amigos.
 4. Una vez lista la lista de amigos, haga clic en "Sortear Amigo" para descubrir quién es el amigo secreto.
 
-## Autor
 
-Creado como parte de un desafío para practicar lógica de programación.
-
----
-
-¡Espero que este `README.md` sea útil! Déjame saber si necesitas ajustes o más detalles.
